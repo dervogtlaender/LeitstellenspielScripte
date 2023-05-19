@@ -92,8 +92,8 @@ var phrases = {
     "0": ["Blitz, Blitz, Blitz. Notruf von %UNIT%", "Notruf von %UNIT%", "%UNIT% Notruf", "Unterstützung zu %UNIT%", "Unterstützung zu %ADDRESS%!"],
     "1": ["Hier %UNIT%. Wir rücken ein", "%UNIT% Status 1", "%UNIT% rückt ein", "%UNIT% sind auf dem Weg zur Wache", "%UNIT%. Einsatzstelle übergeben. Alle Einheiten können einrücken", "%UNIT%. Einsatz beendet", "%UNIT% Einsatz beendet. Wir rücken ab", "%UNIT% wieder frei"],
     "2": ["%UNIT% zurück auf Wache", "%UNIT% auf Wache", "%UNIT% in der Fahrzeughalle", "%UNIT% Status 2", "%UNIT% meldet frei auf Wache"],
-    "3": ["%UNIT% auf Anfahrt", "%UNIT% rückt aus!", "%UNIT%. Wir rücken aus", "Hier %UNIT%. Wir rollen!", "%UNIT% rollt", "Hier %UNIT%. Wir rücken aus", "%UNIT% auf Anfahrt", "%UNIT% sind auf Anfahrt", "Hier %UNIT%. Sind auf Anfahrt", "%UNIT% Status 3",
-        "%UNIT% auf Anfahrt zum Einsatz", "%UNIT% aufgesessen", "%UNIT% zu %ADDRESS%", "%UNIT% auf Anfahrt zu %MISSION%", "%UNIT% fährt zu %MISSION% an %ADDRESS%", "%UNIT% verstanden", "Hier %UNIT%, verstanden", "%UNIT% zu %MISSION% an %ADDRESS%",
+    "3": [
+        "%UNIT% auf Anfahrt zum Einsatz %ADDRESS%",  "%UNIT% zu %ADDRESS%", "%UNIT% auf Anfahrt zu %MISSION%", "%UNIT% fährt zu %MISSION% an %ADDRESS%", "%UNIT% verstanden", "Hier %UNIT%, verstanden", "%UNIT% zu %MISSION% an %ADDRESS%",
         "%UNIT%, %MISSION%, %ADDRESS%", "%ADDRESS%, %UNIT%", "%MISSION% für %UNIT% an %ADDRESS%", "%UNIT%, %ADDRESS%, %MISSION%"],
     "4": ["%UNIT% an Einsatzstelle eingetroffen!", "%UNIT% hat Einsatzstelle erreicht", "%UNIT% Status 4", "%UNIT% . Status wechsel auf die 4", "%UNIT%. Am Einsatzort eingetroffen", "%UNIT% hat %MISSION% erreicht", "%UNIT% an %ADDRESS% angekommen"],
     "5": ["Leitstelle für %UNIT%. Kommen!", "Leitstelle für %UNIT%", "Leitstelle von %UNIT%", "Einmal Leitstelle für %UNIT%", "Sprechwunsch für %UNIT%"],
